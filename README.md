@@ -1,9 +1,4 @@
-<img style="border :2px solid Brown ; border-radius :50% ; l" src="file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/photos and videos/maryam.jpg" alt="our proud" width="100px" height="100px"><h1 sty
-
-
-<h1class ><b>WELCOME to DEBRE  MARKOS ABMA MARIYAM ORTODOX CHURCH </b></h1>
-<h3 class="fff"><i>BELIEVE IN GOD</i></h3>
-<div><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
